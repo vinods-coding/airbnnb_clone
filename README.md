@@ -14,7 +14,8 @@
 
 ## Overview
 This project is a mini clone of Airbnb, built using the MERN stack (MongoDB, Express, React, Node.js). It includes basic CRUD operations for managing listings, user authentication, and reviews.
-
+## Deployed on render
+Link: https://airbnnb-clone.onrender.com 
 ## Features
 - **Listing Management:** Create, Read, Update, and Delete property listings.
 - **User Authentication:** Sign up, log in, and log out functionality for users.
@@ -22,14 +23,14 @@ This project is a mini clone of Airbnb, built using the MERN stack (MongoDB, Exp
 
 ## Tech Stack
 - **Frontend:** HTML, CSS
-- **Backend:** Node.js, Express
+- **Backend:** Node.js, Express.js
 - **Database:** MongoDB
 - **Authentication:** Passport.js
 - **Cloud Storage:** Cloudinary (for image storage)
 
 ## Folder Structure
-- **client:** Frontend code (React)
-- **server:** Backend code (Node.js, Express)
+- **client:** Frontend code (HTML,CSS)
+- **server:** Backend code (Node.js, Express.js)
 - **models:** MongoDB schema definitions
 - **routes:** Express routes for different resources
 - **views:** React components and pages
