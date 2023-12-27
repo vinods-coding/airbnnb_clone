@@ -147,7 +147,24 @@
     display: flex;
     align-items: center;
   }
+
+  @media (max-width: 768px) {
+    #filters {
+      overflow-x: auto;
+      white-space: nowrap;
+    }
   
+    .filter {
+      display: inline-block;
+      margin-right: 1rem;
+    }
+  
+    .tax-toggle {
+      display: inline-block;
+      width: auto;
+      margin-left: 1rem;
+    }
+  }
 /* search-bar */
     .btn-search{
         background-color: #fe424d;
