@@ -41,5 +41,8 @@ Website Link: https://airbnnb-clone.onrender.com
 ## Created By
 - Vinod S (@vinods-coding)
 
+## Screenshot
+![Screenshot 2023-12-27 144059](https://github.com/vinods-coding/airbnnb_clone/assets/154896822/1f378c68-7d59-4880-9101-0c7bcfb4bd30)
+
 
 
