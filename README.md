@@ -1,4 +1,7 @@
-Air-bnb Mini Clone Project
+# Major Project
+
+## Airbnb Mini Clone Project
+
 
 
 
