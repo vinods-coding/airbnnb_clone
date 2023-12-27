@@ -132,7 +132,7 @@
     white-space: nowrap;
     flex: 0 0 auto;
   }
-  }
+ 
   .filter:hover{
     opacity: 1;
     cursor:pointer;
