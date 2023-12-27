@@ -2,6 +2,10 @@
 
 ## Airbnb Mini Clone Project
 
+## Overview
+This project is a mini clone of Airbnb, built using the MERN stack (MongoDB, Express, React, Node.js). It includes basic CRUD operations for managing listings, user authentication, and reviews.
+
+
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&style=flat-square)](https://www.mongodb.com/)
 [![MERN](https://img.shields.io/badge/MERN-4EA94B?style=flat-square&logo=mongodb&logoColor=white&labelColor=61DAFB&label=Express.js&color=43853D)](https://www.mongodb.com/)
 [![React](https://img.shields.io/badge/React-61DAFB?logo=react&style=flat-square)](https://reactjs.org/)
@@ -10,10 +14,6 @@
 [![EJS](https://img.shields.io/badge/EJS-8B4513?logo=ejs&style=flat-square)](https://ejs.co/)
 [![HTML](https://img.shields.io/badge/HTML-5-blue?logo=html5&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-3-blueviolet?logo=css3&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
-
-## Overview
-This project is a mini clone of Airbnb, built using the MERN stack (MongoDB, Express, React, Node.js). It includes basic CRUD operations for managing listings, user authentication, and reviews.
 
 ## Features
 - **Listing Management:** Create, Read, Update, and Delete property listings.
