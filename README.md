@@ -44,5 +44,9 @@ Website Link: https://airbnnb-clone.onrender.com
 ## Screenshot
 ![Screenshot 2023-12-27 144059](https://github.com/vinods-coding/airbnnb_clone/assets/154896822/1f378c68-7d59-4880-9101-0c7bcfb4bd30)
 
+![Screenshot 2023-12-31 143405](https://github.com/vinods-coding/airbnnb_clone/assets/154896822/5b488163-531e-4af4-b87d-b8a9bbad1f3c)
 
 
+![Screenshot 2023-12-31 143430](https://github.com/vinods-coding/airbnnb_clone/assets/154896822/b4c11a8d-645b-4f1c-97ce-81dc23c031c3)
+
+![Screenshot 2023-12-31 143507](https://github.com/vinods-coding/airbnnb_clone/assets/154896822/7964835f-3f44-4457-9a53-8292e7fea38e)
